@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# Environment (API KEYS ARE HERE)
+/src/environments
+
 # compiled output
 /dist
 /public
